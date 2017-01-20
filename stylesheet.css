@@ -1,4 +1,4 @@
-/*h1 {
+h1 {
     color: blue;
 }
 
@@ -9,6 +9,8 @@ body {
 main {
     color: brown;
     font-size: 14px;
+    margin: 4%;
+    padding: 1%;
 }
 
 article {
@@ -19,4 +21,4 @@ article {
 footer {
     color: red;
     font-size: 12px;
-}*/
+}
