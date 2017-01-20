@@ -1,24 +1,34 @@
-h1 {
-    color: blue;
+h1 { 
+    color: blue; 
+} 
+
+body {  
+    font-family: Hevana, sans-serif;  
+    margin: 5%;
+} 
+
+#main { 
+    margin: 3% 10% 3% 10%;
+} 
+
+#subject {  
+    color: red; 
+    font-size: 20px;     
+    text-decoration: underline;
+}   
+
+.related {  
+    color: orange;  
+    font-size: 14px; 
 }
 
-body {
-    font-family: Hevana, sans-serif;
+p { 
+    color: chocolate;
 }
 
-main {
-    color: brown;
-    font-size: 14px;
-    margin: 4%;
-    padding: 1%;
-}
-
-article {
-    color: orange;
-    font-size: 14px;
-}
-
-footer {
-    color: red;
-    font-size: 12px;
-}
+footer {  
+    margin-top: 5%; 
+    margin-right: 5%; 
+    color: red;  
+    font-size: 14px;  
+    float: right;} 
