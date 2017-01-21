@@ -1,5 +1,6 @@
 h1 { 
     color: blue; 
+<<<<<<< HEAD
     border: solid 1px blue;
 } 
 
@@ -32,4 +33,36 @@ footer {
     margin: 5% 10%;
     color: red;
     font-size: 14px;
+=======
+} 
+
+body {  
+    font-family: Hevana, sans-serif;  
+    margin: 5%;
+} 
+
+#main { 
+    margin: 3% 10% 3% 10%;
+} 
+
+#subject {  
+    color: red; 
+    font-size: 20px;     
+    text-decoration: underline;
+}   
+
+.related {  
+    color: orange;  
+    font-size: 14px; 
+}
+
+p { 
+    color: chocolate;
+}
+
+footer {  
+    margin-top: 5%; 
+    margin-right: 5%; 
+    color: red;  
+    font-size: 14px;  
     float: right;} 
