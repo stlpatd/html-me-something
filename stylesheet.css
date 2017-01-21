@@ -1,23 +1,16 @@
-h1 { 
-    color: blue; 
-<<<<<<< HEAD
-    border: solid 1px blue;
-} 
-
-body {  
+ body {  
     font-family: Hevana, sans-serif;
     clear: both;
+}
+
+h1 {
+    color: blue;
+    border: solid 1px blue;
 }
 
 #main {
     padding: 0;
     margin: 2% 10% 2% 10%;
-}
-
-#subject {
-    color: red;
-    font-size: 30px;
-    text-decoration: underline;
 }
 
 .related {
@@ -27,23 +20,7 @@ body {  
 
 p {
     color: chocolate
-}
-
-footer {
-    margin: 5% 10%;
-    color: red;
-    font-size: 14px;
-=======
-} 
-
-body {  
-    font-family: Hevana, sans-serif;  
-    margin: 5%;
-} 
-
-#main { 
-    margin: 3% 10% 3% 10%;
-} 
+}  
 
 #subject {  
     color: red; 
@@ -51,18 +28,9 @@ body {  
     text-decoration: underline;
 }   
 
-.related {  
-    color: orange;  
-    font-size: 14px; 
+footer {
+    margin: 5% 10%;
+    color: red;
+    font-size: 14px;
+    float: right;
 }
-
-p { 
-    color: chocolate;
-}
-
-footer {  
-    margin-top: 5%; 
-    margin-right: 5%; 
-    color: red;  
-    font-size: 14px;  
-    float: right;} 
