@@ -1,15 +1,26 @@
-h1 { 
-    color: blue; 
-} 
+ body {  
+    font-family: Hevana, sans-serif;
+    clear: both;
+}
 
-body {  
-    font-family: Hevana, sans-serif;  
-    margin: 5%;
-} 
+h1 {
+    color: blue;
+    border: solid 1px blue;
+}
 
-#main { 
-    margin: 3% 10% 3% 10%;
-} 
+#main {
+    padding: 0;
+    margin: 2% 10% 2% 10%;
+}
+
+.related {
+    color: rebeccapurple;
+    font-size: 14px; 
+}
+
+p {
+    color: chocolate
+}  
 
 #subject {  
     color: red; 
@@ -17,18 +28,9 @@ body {  
     text-decoration: underline;
 }   
 
-.related {  
-    color: orange;  
-    font-size: 14px; 
+footer {
+    margin: 5% 10%;
+    color: red;
+    font-size: 14px;
+    float: right;
 }
-
-p { 
-    color: chocolate;
-}
-
-footer {  
-    margin-top: 5%; 
-    margin-right: 5%; 
-    color: red;  
-    font-size: 14px;  
-    float: right;} 
